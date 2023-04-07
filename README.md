@@ -1,14 +1,15 @@
 
 <h1 align = "center">Hi there 👋, I'm Chetan Jogi</h1>
 <h3 align="center">A Self-Taught Java Developer from India</h3>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chetanjogi&theme=kacho_ga&show_icons=true"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanjogi&layout=compact"/> <br>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chetanjogi&theme=kacho_ga&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanjogi&layout=compact" /> <br> <br>
+
  - 🌱 I’m currently learning Web development and Java full Stack. <br> <br>
  - ⚡ Fun fact : I'm good at Problem Solving 😁.<br><br>
- - 👨‍💻 All of my projects and Resume available at 📄[Drive](https://drive.google.com/file/d/1DBLuP5TEhQvlJRspvhXNhUI0FkzEvrPm/view).<br><br>
+ - 👨‍💻 All of my projects and Resume available at [Drive](https://drive.google.com/file/d/1DBLuP5TEhQvlJRspvhXNhUI0FkzEvrPm/view).<br><br>
  - 💬 Ask me about Java & Web Development.<br><br>
  - 💞️ I love to code . learn 📚. repeat🚀. <br><br>
- - 🔗 Connect me on [LinkedIn](https://www.linkedin.com/mwlite/in/chetan-jogi-35a917176).<br><br> 
+ - 🔗 Connect me on [Linkedin](https://www.linkedin.com/mwlite/in/chetan-jogi-35a917176).<br><br> 
  
 
  

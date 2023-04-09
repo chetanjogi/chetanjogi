@@ -1,5 +1,5 @@
 
-<h1 align = "center">Hi there 👋, I'm Chetan Jogi</h1>
+<h1 align = "center">Hi..!👋, I'm Chetan Jogi</h1>
 <h3 align="center">A Self-Taught Java Developer from India</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chetanjogi&theme=kacho_ga&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanjogi&layout=compact" /> <br> <br>

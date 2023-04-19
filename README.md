@@ -1,8 +1,8 @@
 
 <h1 align = "center">Hi..!👋, I'm Chetan Jogi</h1>
-<h3 align="center">A Self-Taught Java Developer from India</h3>
+<!-- <h3 align="center">A Self-Taught Java Developer from India</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chetanjogi&theme=kacho_ga&show_icons=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanjogi&layout=compact" /> <br> <br>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanjogi&layout=compact" /> <br> <br> -->
 
  - 🌱 I’m currently learning Web development and Java full Stack. <br> <br>
  - ⚡ Fun fact : I'm good at Problem Solving 😁.<br><br>

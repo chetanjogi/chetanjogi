@@ -6,7 +6,6 @@
 
  - 🌱 I’m currently learning Web development and Java full Stack. <br> <br>
  - ⚡ Fun fact : I'm good at Problem Solving 😁.<br><br>
- - 👨‍💻 All of my projects and Resume available at [Drive](https://drive.google.com/file/d/1DBLuP5TEhQvlJRspvhXNhUI0FkzEvrPm/view).<br><br>
  - 💬 Ask me about Java & Web Development.<br><br>
  - 💞️ I love to code . learn 📚. repeat🚀. <br><br>
  - 🔗 Connect me on [Linkedin](https://www.linkedin.com/mwlite/in/chetan-jogi-35a917176).<br><br> 
